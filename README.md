@@ -1,0 +1,1 @@
+Here you have some fun execise to create your first projects on Javascript. In everyone it's explained what you need to do and the solving for each one.
