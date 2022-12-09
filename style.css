@@ -1,4 +1,4 @@
-#exerciseOne{
+#exerciseOne, #exerciseTwo{
     position: absolute;
     left: 0;
     top: 0;
@@ -6,6 +6,6 @@
     bottom: 0;
     display: flex;
 }
-#exerciseOneBtn{
+#exerciseOneBtn, #exerciseTwoBtn, #hexPrint{
     margin: auto;
 }
